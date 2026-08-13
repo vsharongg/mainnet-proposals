@@ -1,0 +1,6 @@
+{
+  "title": "Enable transaction limits",
+  "description": "Enables staking-based transaction limits (see AIP-146 for details)",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-06-22-enable-transaction-limits",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/669"
+}
